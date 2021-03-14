@@ -9,6 +9,7 @@ function help(){
                                                     by the data of filepath1)
         6. node wcat.js filepath1 >> filepath2 --> (to append all the data of filepath1 to filepath2)
         7. node wcat.js -help --> (for help)
+        
     `);
 }
 
